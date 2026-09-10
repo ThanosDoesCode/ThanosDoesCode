@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Thanos 👋
 
-<!--
-**ThanosDoesCode/ThanosDoesCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student in Sweden building full-stack applications, AI tools, and real-world client projects.
 
-Here are some ideas to get you started:
+## What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Tempo** - fitness tracking PWA with Supabase, PostgreSQL, RLS and push notifications
+- **CodeCompass** - AI-assisted codebase navigation and architecture intelligence
+- **Snabbily** - bilingual production website for a web design business
+
+## Tech
+
+React · TypeScript · JavaScript · Python · Supabase · PostgreSQL · Git · GitHub
+
+## Currently
+
+- Studying Computer Science
+- Building production projects
+- Looking for Software Engineering internships in Sweden
+
+## Featured Projects
+
+### Tempo
+Mobile-first fitness tracking and challenge platform.
+
+### CodeCompass
+Tool for understanding unfamiliar codebases, architecture and concepts.
+
+### Snabbily
+Bilingual production website focused on SEO, performance and conversion.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/thanosxnt)
