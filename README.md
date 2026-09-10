@@ -20,14 +20,9 @@ React · TypeScript · JavaScript · Python · Supabase · PostgreSQL · Git · 
 
 ## Featured Projects
 
-### Tempo
-Mobile-first fitness tracking and challenge platform.
-
-### CodeCompass
-Tool for understanding unfamiliar codebases, architecture and concepts.
-
-### Snabbily
-Bilingual production website focused on SEO, performance and conversion.
+- [Tempo](https://github.com/ThanosDoesCode/tempo) - fitness tracking PWA with Supabase, PostgreSQL, RLS and push notifications
+- [CodeCompass](https://github.com/ThanosDoesCode/code-compass) - AI-assisted codebase navigation and architecture intelligence
+- [Snabbily](https://github.com/ThanosDoesCode/snabbily) - bilingual production website for a web design business
 
 ## Connect
 
